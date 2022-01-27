@@ -20,12 +20,7 @@ heterogeneous columns. The direct calculation is:\
 q = -K(dh/dl), where K = Keq = n/((1/K1)+(1/K2)) and n = the number of layers
 
 **3** (see pdf)
-<<<<<<< HEAD:Submissions/HW1/HW1__discussion_kahler.md
 ![](HW1/layers.png)
-=======
-![layered column](/assets/layers.png)
-homework-akahler03\Submissions\HW 1\layers.png
->>>>>>> master:Submissions/HW 1/HW1__discussion_kahler.md
 
 
 
