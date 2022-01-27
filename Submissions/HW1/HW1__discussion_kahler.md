@@ -52,7 +52,7 @@ This is shown in the Excel model by the vertical distribution of flux with colum
 
 **4** Sometimes it is more efficient to have self-contained files or functions that can be called\
 into the active model script. This is helpful for an end-member user who does not need to\
-monitor or change the model structure; only the active inputs.\
+monitor or change the model structure; only the active inputs.
 
 **5** An *iterative solution* is like starting a decision process with an educated guess. You want\
 to buy a used car and you think it will cost $5000. While you are saving up that amount, you\
