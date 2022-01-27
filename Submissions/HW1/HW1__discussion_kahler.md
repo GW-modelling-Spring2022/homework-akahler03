@@ -4,23 +4,27 @@
 
 **1** A system in steady state has no change in storage: the flux in equals the flux out.
 
-(See pdf)
+![Homogeneous steady state with K1](challengepart1a.png)
 
-For a **homogeneous** column, the hydraulic conductivity (K) is the same throughout. Then,\
+For a **homogeneous** column (above), the hydraulic conductivity (K) is the same throughout. Then,\
 by q = -K (dh/dl) the flux is also constant along the entire column.
 
-(See pdf)
 
 
-For a **heterogeneous** column, different K values between layers dictate different fluxes as\
+
+
+![Heterogeneous steady state with K1 and K2](challengepart1b.png)
+
+
+For a **heterogeneous** column (above), different K values between layers dictate different fluxes as\
 well, yet to be steady state the flux in and flux out of the column must be equal.
 
 **2** The harmonic mean of hydraulic conductivity (Keq) is used to calculate flux in\
 heterogeneous columns. The direct calculation is:\
 q = -K(dh/dl), where K = Keq = n/((1/K1)+(1/K2)) and n = the number of layers
 
-**3** (see pdf)
-![](HW1/layers.png)
+**3** 
+![Steady state head profile for three layers](layers.png)
 
 
 
