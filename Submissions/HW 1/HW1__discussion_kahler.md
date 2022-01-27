@@ -21,7 +21,7 @@ q = -K(dh/dl), where K = Keq = n/((1/K1)+(1/K2)) and n = the number of layers
 
 **3** (see pdf)
 ![layered column](/assets/layers.png)
-
+homework-akahler03\Submissions\HW 1\layers.png
 
 
 
