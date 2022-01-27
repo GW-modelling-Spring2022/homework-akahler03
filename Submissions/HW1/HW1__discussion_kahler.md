@@ -4,7 +4,7 @@
 
 **1** A system in steady state has no change in storage: the flux in equals the flux out.
 
-![Homogeneous steady state with K1](challengepart1a.png)
+![Homogeneous steady state with K1](challengepart1a.PNG)
 
 For a **homogeneous** column (above), the hydraulic conductivity (K) is the same throughout. Then,\
 by q = -K (dh/dl) the flux is also constant along the entire column.
@@ -13,7 +13,7 @@ by q = -K (dh/dl) the flux is also constant along the entire column.
 
 
 
-![Heterogeneous steady state with K1 and K2](challengepart1b.png)
+![Heterogeneous steady state with K1 and K2](challengepart1b.PNG)
 
 
 For a **heterogeneous** column (above), different K values between layers dictate different fluxes as\
